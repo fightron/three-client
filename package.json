@@ -29,7 +29,7 @@
     "mocha": "5.2.0",
     "mock-browser": "github:pauloddr/mock-browser#patch-jsdom-lodash",
     "nyc": "12.0.2",
-    "standard": "11.0.1"
+    "standard": "12.0.1"
   },
   "standard": {
     "env": "mocha",
