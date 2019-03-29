@@ -28,7 +28,7 @@
     "chai": "4.2.0",
     "coveralls": "3.0.3",
     "dirty-chai": "2.0.1",
-    "esm": "3.2.20",
+    "esm": "3.2.22",
     "mocha": "6.0.2",
     "mock-browser": "github:pauloddr/mock-browser#patch-jsdom-lodash",
     "nyc": "13.3.0",
