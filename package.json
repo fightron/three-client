@@ -29,7 +29,7 @@
     "coveralls": "3.0.9",
     "dirty-chai": "2.0.1",
     "esm": "3.2.25",
-    "mocha": "6.0.2",
+    "mocha": "7.2.0",
     "mock-browser": "github:pauloddr/mock-browser#patch-jsdom-lodash",
     "nyc": "15.0.0",
     "semistandard": "13.0.1"
