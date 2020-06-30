@@ -31,7 +31,7 @@
     "esm": "3.2.25",
     "mocha": "6.0.2",
     "mock-browser": "github:pauloddr/mock-browser#patch-jsdom-lodash",
-    "nyc": "15.0.0",
+    "nyc": "15.1.0",
     "semistandard": "13.0.1"
   },
   "semistandard": {
