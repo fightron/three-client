@@ -21,7 +21,7 @@
     "@fightron/core": "github:pauloddr/fightron-core",
     "@fightron/inputs": "github:pauloddr/fightron-inputs",
     "@fightron/utils": "github:pauloddr/fightron-utils",
-    "three": "0.103.0"
+    "three": "0.125.0"
   },
   "devDependencies": {
     "canvas": "2.4.1",
