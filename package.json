@@ -24,7 +24,7 @@
     "three": "0.103.0"
   },
   "devDependencies": {
-    "canvas": "2.4.1",
+    "canvas": "2.8.0",
     "chai": "4.2.0",
     "coveralls": "3.0.9",
     "dirty-chai": "2.0.1",
